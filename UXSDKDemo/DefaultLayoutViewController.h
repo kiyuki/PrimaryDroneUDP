@@ -9,5 +9,4 @@
 #import <DJIUXSDK/DJIUXSDK.h>
 
 @interface DefaultLayoutViewController : DUXDefaultLayoutViewController
-
 @end
